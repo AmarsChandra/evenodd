@@ -1,4 +1,4 @@
-Evenodd by Amar Chandra uses a complex mechanism to determine if a user-inputted number is even or odd.
+Evenodd by Amar Chandra uses a complex mechanism to determine if a user-inputted number is even or odd. It uses a latency reduction mechanism that allows the user prompt to be generated in under 19 seconds to ensure fast runtime at all time.
 
 This mechanism can be viewed below:
 
